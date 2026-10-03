@@ -1,0 +1,41 @@
+[
+  {
+    "id": "cd3b7181-9f54-4df8-9e26-2fcae47a7b6a",
+    "ownerId": "7e41f39e-28f4-4dd6-9e10-165c3274cba4",
+    "author": "harshad bhosale",
+    "title": "Welcome to education",
+    "category": "Education",
+    "content": "Education is the best way of success",
+    "createdAt": "2026-10-02T08:58:37.636Z"
+  },
+  {
+    "id": "c208ad70-c3b9-4d99-8410-4217987788bc",
+    "ownerId": "7e41f39e-28f4-4dd6-9e10-165c3274cba4",
+    "author": "harshad bhosale",
+    "title": "happy world",
+    "category": "Personal",
+    "content": "spread happieness ,live happily...",
+    "isPublic": true,
+    "createdAt": "2026-10-02T16:26:56.617Z"
+  },
+  {
+    "id": "158d97f7-1b79-438f-9d5b-6192f14d5e7a",
+    "ownerId": "a10f5fea-83a3-4916-ad47-04f2197c02ae",
+    "author": "sahil atugade",
+    "title": "my dream",
+    "category": "Personal",
+    "content": "To achieve the success of life...",
+    "isPublic": true,
+    "createdAt": "2026-10-02T16:47:12.487Z"
+  },
+  {
+    "id": "e2aee3ca-2fcc-4ef6-8b8d-88d7bd64d8bc",
+    "ownerId": "7e41f39e-28f4-4dd6-9e10-165c3274cba4",
+    "author": "harshad bhosale",
+    "title": "Test",
+    "category": "Technology",
+    "content": "test",
+    "isPublic": false,
+    "createdAt": "2026-10-03T03:33:43.858Z"
+  }
+]

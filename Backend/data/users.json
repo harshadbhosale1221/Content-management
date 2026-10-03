@@ -1,0 +1,18 @@
+[
+  {
+    "id": "7e41f39e-28f4-4dd6-9e10-165c3274cba4",
+    "name": "harshad bhosale",
+    "email": "harshadbhosale8@gmail.com",
+    "salt": "4c7cc30ea11da79770d2fd3e23572c80",
+    "passwordHash": "c4e14269d208adcb7bd8fbf1c98e968a97edcebabeb0e64609f3980f5d81ce9747e347c503fc5aebc87d05153d4287186312612a632f0a5d1de0a8aa1dd4d300",
+    "createdAt": "2026-10-02T08:55:02.403Z"
+  },
+  {
+    "id": "a10f5fea-83a3-4916-ad47-04f2197c02ae",
+    "name": "sahil atugade",
+    "email": "sahil4@gmail.com",
+    "salt": "84127d27b282472daac042cb7b188dc9",
+    "passwordHash": "3795915868771177895839d512d32b3eafa2858d8a44cc443e0d7ed5bbf05c33a364cd0c25e69fbcca939925afafbf05428489d892c3dddaddf9e7b1152f9827",
+    "createdAt": "2026-10-02T16:27:50.216Z"
+  }
+]
